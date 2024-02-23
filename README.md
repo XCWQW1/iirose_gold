@@ -1,19 +1,18 @@
 ## 简介
-- 插件名称：iirose_example
+- 插件名称：iirose_gold
 - 插件作者：XCWQW233
-- 插件简介：示例插件
+- 插件简介：蔷薇花园股票播报插件
 
 ## 依赖库
 | 库名     | 版本     |
 |--------|--------|
-| 无 | 无 |
+| plotly | latest |
 
 ## 指令
 
 | 指令  | 介绍     | 示例  |
 |-----|--------|-----|
-| 测试 | 输出Hello world! | 测试 |
-| TEST-(参数) | 输出参数中的东西 | TEST-233 |
+| .股票 | 列出帮助菜单 | .股票 |
 
 ## 下载
 
@@ -21,4 +20,4 @@
 
 | 文件                 | 版本    |
 |--------------------|-------|
-| [iirose_example.py](data/iirose_example.py) | 0.0.1 |
+| [iirose_gold.py](/data/iirose_gold/iirose_gold.py) | 0.0.1 |
