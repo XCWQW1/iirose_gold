@@ -20,4 +20,4 @@
 
 | 文件                 | 版本    |
 |--------------------|-------|
-| [iirose_gold.py](/data/iirose_gold/iirose_gold.py) | 0.0.1 |
+| [iirose_gold.py](/data/iirose_gold.py) | 0.0.1 |
