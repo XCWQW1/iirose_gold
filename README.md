@@ -6,6 +6,7 @@
 ## 依赖库
 | 库名     | 版本     |
 |--------|--------|
+| iirosebot | 1.7.0>= |
 | plotly | latest |
 
 ## 指令
@@ -20,4 +21,5 @@
 
 | 文件                 | 版本    |
 |--------------------|-------|
-| [iirose_gold.py](/data/iirose_gold.py) | 0.0.1 |
+| [iirose_gold.py](/data/0.0.2/iirose_gold.py) | 0.0.2 |
+| [iirose_gold.py](/data/0.0.1/iirose_gold.py) | 0.0.1 |
